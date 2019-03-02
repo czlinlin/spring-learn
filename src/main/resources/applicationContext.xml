@@ -9,5 +9,10 @@
 
     </bean>
 
+    <bean id="person" class="com.dwcx.spring.learn.bean.Person" >
+        <property name="name" value="11"></property>
+        <property name="student" ref="student"></property>
+    </bean>
+
 
 </beans>

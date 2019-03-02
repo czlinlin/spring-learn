@@ -16,6 +16,14 @@ public class Student {
         System.out.print("haha");
     }
 
+    @Override
+    public String toString() {
+        return "Student{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                '}';
+    }
+
     public Student(String name, int age) {
         this.name = name;
         this.age = age;

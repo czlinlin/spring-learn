@@ -19,5 +19,9 @@ public class StudentTest {
 
        //调用hello方法
         //student.hello();
+
+        Person person = ctx.getBean("person", Person.class);
+        System.out.println(person);
+
     }
 }
