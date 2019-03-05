@@ -46,7 +46,7 @@ public class Student {
     }
 
 
-    public  void hello(){
-        System.out.println("hello:"+name);
+    public void hello() {
+        System.out.println("hello:" + name);
     }
 }
