@@ -1,6 +1,15 @@
 # Spring 学习笔记
 
-1. AOP
+### AOP
     
-2. 事物
-![Alt text](imgs/shiwu1.png)
+### 事物
+
+* bean
+* config
+
+### 事物
+
+- ~~隔离性~~
+- 一致性
+
+
